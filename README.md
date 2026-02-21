@@ -9,7 +9,6 @@
 [![License](https://img.shields.io/github/license/adenast/holy.sh?style=for-the-badge&labelColor=1e2528&color=violet)](https://unlicense.org)
 [![Stars](https://img.shields.io/github/stars/adenast/holy.sh?style=for-the-badge&labelColor=1e2528&color=yellow)](https://github.com/adenast/holy.sh/stargazers)
 </div>
----
 
 ## Features
 * **Zero functionality:** It opens. You can type. That's about it.
