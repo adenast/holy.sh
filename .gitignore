@@ -1,0 +1,16 @@
+holy.sh
+*.o
+*.so
+*.out
+build/
+bin/
+obj/
+*.log
+core
+vgcore.*
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+generated_resources.c
