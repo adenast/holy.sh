@@ -18,10 +18,10 @@
 
 ## Prerequisites
 You will need the following bloated dependencies to run this lightweight masterpiece:
-*`gtk4`
-*`libadwaita-1`
-*`vte-2.91-gtk4`
-*`gcc` & `make`
+* `gtk4`
+* `libadwaita-1`
+* `vte-2.91-gtk4`
+* `gcc` & `make`
 
 ## Installation
 1. Clone the repository (if you really have nothing better to do):
