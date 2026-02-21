@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=holy.sh
+Comment=
+Exec=holy.sh
+Icon=holy.sh
+Terminal=false
+Categories=System;TerminalEmulator;Utility;
+Keywords=shell;prompt;command;commandline;console;
+StartupWMClass=holy.sh
