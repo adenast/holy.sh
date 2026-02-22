@@ -41,5 +41,11 @@ sudo make install
 ## Support
 Don't contact me. I don't know how it works either.
 
+## FAQ
+If you have any problems:
+```Bash
+sudo make uninstall
+```
+
 ---
 **Enjoy your shell.** (Or don't. I'm not your boss)
