@@ -48,4 +48,4 @@ sudo make uninstall
 ```
 
 ---
-**Enjoy your shell.** (Or don't. I'm not your boss)
+**Enjoy your shell.** (Or don't)
