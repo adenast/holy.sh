@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github.com/adenast/holy.sh/blob/main/app/icons/hicolor/128x128/apps/holy.sh.png?raw=true"> 
 <h2>holy.sh</h1>
 <h6>
   The world's ugliest terminal emulator.
