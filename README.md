@@ -49,4 +49,4 @@ sudo make uninstall
 ```
 
 ---
-**Enjoy your shell.** (Or don't)
+**Enjoy your shell.** (fuck you)
